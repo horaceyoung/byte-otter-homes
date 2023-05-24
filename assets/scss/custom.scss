@@ -1,0 +1,56 @@
+@import "./variables.scss"; // using the `@import` keyword to import variables is not recomended
+
+// code blocks background color
+.highlight {
+    background-color: #{$clr-bg-darker} !important;
+
+    pre {
+        background-color: #{$clr-bg-darker} !important;
+    }
+}
+
+// article titles text color
+:root[data-scheme="dark"] .main-article .article-content {
+    h1, h2, h3, h4, h5, h6 {
+        color: $clr-green;
+        border: none;
+
+        * {
+            color: inherit;
+        }
+    }
+}
+
+// refactoring the article table of contents
+#TableOfContents ul {
+    list-style: none;
+}
+
+// border radius images in the links pages
+.article-image img {
+    border-radius: 8px;
+}
+
+// coloring the post title
+.article-title a {
+    color: $clr-green !important;
+}
+
+// fixing the color of the <blockquote> tag
+blockquote {
+    border-inline-start: var(--blockquote-border-size) solid $clr-green !important;
+}
+
+// fixing the toc element at the right
+.widget--toc #TableOfContents li {
+    margin: 15px 0 15px 0px;
+    & ol, .widget--toc #TableOfContents li > ul {
+        margin-left: 5px !important;
+    }
+}
+
+// fixing the category box color to match my colorscheme
+.article-category a {
+    background-color: $clr-green !important;
+    color: $clr-bg-darker !important;
+}
