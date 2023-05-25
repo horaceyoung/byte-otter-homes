@@ -1,8 +1,8 @@
 /** custom color pallert */
-$clr-green: hsl(54, 94%, 52%);
-$clr-bg-regular: hsl(0, 0%, 15%);
-$clr-bg-dark: hsl(0, 0%, 15%);
-$clr-bg-darker: hsl(0, 0%, 15%);
+$clr-green: #f2e900;
+$clr-bg-regular: hsl(0, 0%, 7%);
+$clr-bg-dark: hsl(0, 0%, 7%);
+$clr-bg-darker: hsl(0, 0%, 7%);
 
 $defaultTagBackgrounds: #{$clr-green}, #df7988, #0177b8, #ffb900, #6b69d6;
 $defaultTagColors: #{$clr-bg-regular}, #fff, #fff, #fff, #fff;
@@ -62,7 +62,7 @@ $defaultTagColors: #{$clr-bg-regular}, #fff, #fff, #fff, #fff;
 */
 :root {
     --card-background: #fff;
-    --card-background-selected: #eaeaea;
+    --card-background-selected: #ee0000;
 
     --card-text-color-main: #000;
     --card-text-color-secondary: #747474;
