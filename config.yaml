@@ -1,19 +1,44 @@
 baseURL: 'http://byte.otter.homes/'
-languageCode: 'en-us'
+languageCode: 
+  - 'en-us'
+  - 'zh-cn'
 title: >
-  'Horace's Holt'
+  Horace's Holt
 theme: 'stack'
 
+googleAnalytics: 'G-V85R4MBE21'
+
+languages:
+    en:
+        languageName: English
+        title: >
+          Horace's Holt
+        description: Example description
+        weight: 1
+    zh-tw:
+        languageName: 中文
+        title: >
+          Horace's Holt
+        description: 演示说明
+        weight: 2
+
+DefaultContentLanguage: en
+
+hasCJKLanguage: true
 
 menu:
   social:
     - identifier: 'github'
       name: 'GitHub'
-      url: 'https://github.com/kevinmarquesp'
+      url: 'https://github.com/horaceyoung'
+      params:
+        icon: brand-github
 
-    - identifier: 'linkedin'
-      name: 'Linkedin'
-      url: 'https://www.linkedin.com/in/kevin-marques-827299238/'
+    - identifier: 'mastodon'
+      name: 'Mastodon'
+      url: 'https://m.otter.homes/@horaceyoung'
+      params:
+        icon: brand-mastodon
 
 
 markup:
@@ -26,7 +51,7 @@ markup:
 
 
 params:
-  favicon: 'favicon.svg'
+  favicon: 'avatar.png'
 
   colorscheme:
     default: 'dark'
@@ -37,9 +62,8 @@ params:
     readingTime: true
 
   sidebar:
-    emoji: '🚀'
-    subtitle: 'Um desenvolvedor web júnior que é apaixonado por tecnologia e
-              aprender coisas novas, bem vindo ao meu diário de bordo!'
+    emoji: '🦦'
+    subtitle: 'I like games, cooking, pixel arts, harmonica, and fediverse. I am a Data Engineer @ Singapore'
 
 
   footer:
