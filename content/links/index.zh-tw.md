@@ -32,6 +32,11 @@ links:
       JUST KAEDE!
     website: https://www.flymc.cc
     image: img/flymc.webp
+  - title: ･✦･Nightola-227 FM
+    description: >
+      尝试自我记录、剖析的地方
+    website: https://nightola.bearblog.dev
+    image: img/nightola.png
 menu:
     main:
         weight: 4
