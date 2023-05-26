@@ -1,8 +1,8 @@
 /** custom color pallert */
 $clr-green: #f2e900;
-$clr-bg-regular: hsl(0, 0%, 7%);
+$clr-bg-regular: hsl(0, 0%, 11%);
 $clr-bg-dark: hsl(0, 0%, 7%);
-$clr-bg-darker: hsl(0, 0%, 7%);
+$clr-bg-darker: hwb(0, 0% 7%);
 
 $defaultTagBackgrounds: #{$clr-green}, #df7988, #0177b8, #ffb900, #6b69d6;
 $defaultTagColors: #{$clr-bg-regular}, #fff, #fff, #fff, #fff;
