@@ -30,7 +30,7 @@ links:
   - title: 夏·祈·枫
     description: >
       JUST KAEDE!
-    website: https://flymc.cc
+    website: https://www.flymc.cc
     image: img/flymc.webp
 menu:
     main:
