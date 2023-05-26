@@ -17,6 +17,16 @@ links:
       可以使用這個鏈接加入服務器主房間 https://matrix.to/#/#chat-unencrypted:chat.otter.homes.
     website: https://element.otter.homes
     image: img/element.jpg
+  - title: 小倖的窝
+    description: >
+      甜品和猫，缺一不可。
+    website: https://nanakumo.github.io
+    image: img/nanakumo.png
+  - title: Rubber Duck's Bizarre Adventure
+    description: >
+      人間讃歌は「勇気」の讃歌ッ。人間のすばらしさは勇気のすばらしさ！。
+    website: https://falasool.github.io
+    image: ponder.png
 menu:
     main:
         weight: 4
