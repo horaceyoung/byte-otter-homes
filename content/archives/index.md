@@ -1,8 +1,8 @@
 ---
-title: "档案"
-date: 2022-03-06
+title: "Archives"
 layout: "archives"
 slug: "archives"
+readingTime: false
 menu:
     main:
         weight: 2

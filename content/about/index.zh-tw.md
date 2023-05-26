@@ -9,16 +9,14 @@ aliases:
 license: CC BY-NC-ND
 lastmod: '2020-10-09'
 readingTime: false
-toc: false
 menu:
     main: 
         weight: 20
         params:
             icon: user
 ---
-## Hi there! 
 
-Thank you for finding my blog. I write about everyday things in life, my thoughts, my essays & poetry, technology & career in the IT industry, for now (who knows what I will be interested in later on).
+Hi there! Thank you for finding my blog. I write about everyday things in life, my thoughts, my essays & poetry, technology & career in the IT industry, for now (who knows what I will be interested in later on).
 
 I'm Horace. I like games, cooking, pixel arts, harmonica, and fediverse.
 
@@ -37,8 +35,6 @@ I LOVE games. I love
 This blog is a practice of [POSSE](https://indieweb.org/POSSE) (Publish (on your) Own Site, Syndicate Elsewhere) inspired by this [post](https://thewebisfucked.com/). There is absolutely no tracking on this site.
 
 This blog has a language switcher and you can view contents in other languages on the bottom left.
-
-If you like RSS, you can subscribe via this [link](https://byte.otter.homes/index.xml)
 
 That's it! I hope you enjoy reading this blog.
 
