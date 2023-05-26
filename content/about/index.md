@@ -34,7 +34,7 @@ I LOVE games. I love
 - *Horizon: Forbidden West*
 - *Slay the Spire* (I'm making a mod for it now)
 
-This blog is a practice of [POSSE](https://indieweb.org/POSSE) (Publish (on your) Own Site, Syndicate Elsewhere) inspired by this [post](https://thewebisfucked.com/). There is absolutely no tracking on this site.
+This blog is a practice of [POSSE](https://indieweb.org/POSSE) (Publish (on your) Own Site, Syndicate Elsewhere) inspired by this [post](https://thewebisfucked.com/).
 
 This blog has a language switcher and you can view contents in other languages on the bottom left.
 
