@@ -42,7 +42,7 @@ menu:
         icon: brand-github
     
     - identifier: 'rss'
-      name: 'Mastodon'
+      name: 'RSS'
       url: 'https://byte.otter.homes/index.xml'
       params:
         icon: rss
