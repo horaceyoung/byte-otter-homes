@@ -11,7 +11,13 @@
 
 // article titles text color
 :root[data-scheme="dark"] .main-article .article-content {
-    h1, h2, h3, h4, h5, h6 {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
         color: #02bed7;
         border: none;
 
@@ -44,7 +50,9 @@ blockquote {
 // fixing the toc element at the right
 .widget--toc #TableOfContents li {
     margin: 15px 0 15px 0px;
-    & ol, .widget--toc #TableOfContents li > ul {
+
+    & ol,
+    .widget--toc #TableOfContents li>ul {
         margin-left: 5px !important;
     }
 }
@@ -52,4 +60,24 @@ blockquote {
 // fixing the category box color to match my colorscheme
 .article-category a {
     color: $clr-bg-darker !important;
+}
+
+@media (min-width: 1024px) {
+    .article-list--compact.links {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        background: none;
+        box-shadow: none;
+
+        article {
+            background: var(--card-background);
+            box-shadow: var(--shadow-l2);
+            margin-bottom: 8px;
+            border-radius: 10px;
+
+            &:nth-child(odd) {
+                margin-right: 8px;
+            }
+        }
+    }
 }
