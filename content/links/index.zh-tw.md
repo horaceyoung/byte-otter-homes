@@ -37,6 +37,11 @@ links:
       尝试自我记录、剖析的地方
     website: https://nightola.bearblog.dev
     image: img/nightola.png
+  - title: NOWHERE
+    description: >
+      :D
+    website: https://xnth97.github.io/
+    image: img/xnth97.png
 menu:
     main:
         weight: 4
