@@ -1,7 +1,5 @@
 baseURL: 'http://byte.otter.homes/'
-languageCode: 
-  - 'en-us'
-  - 'zh-cn'
+languageCode: 'en'
 title: >
   Horace's Holt
 theme: 'stack'
@@ -24,7 +22,7 @@ languages:
 
 DefaultContentLanguage: en
 
-hasCJKLanguage: true
+hasCJKLanguage: false
 
 menu:
   social:
