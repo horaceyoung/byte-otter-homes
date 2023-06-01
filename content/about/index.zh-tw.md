@@ -1,5 +1,5 @@
 ---
-title: About
+title: 關於
 description: What's in the temporary husk on the earth named me?
 date: '2023-05-26'
 aliases:

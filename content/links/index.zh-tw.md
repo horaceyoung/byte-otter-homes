@@ -26,7 +26,7 @@ links:
     description: >
       人間讃歌は「勇気」の讃歌ッ。人間のすばらしさは勇気のすばらしさ！。
     website: https://falasool.github.io
-    image: ponder.png
+    image: img/ponder.png
   - title: 夏·祈·枫
     description: >
       JUST KAEDE!
