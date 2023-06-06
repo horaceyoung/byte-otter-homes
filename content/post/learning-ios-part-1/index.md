@@ -161,7 +161,7 @@ struct Rect {
 }
 ```
 
-## SwiftUI and UIKit
+## SwiftUI
 
 ![SwiftUI Tutorial](swiftUI.png)
 After getting familiar with the basic syntax of Swift, I started with the official SwiftUI tutorial to build a landmarks app in the end. It's easy to start with just Xcode and some resource files downloadable to learn the basic concepts of SwiftUI.
@@ -226,6 +226,10 @@ You will encounter the above property wrappers when you follow the SwfitUI tutor
 | @State             | lets us manipulate small amounts of value type data locally to a view. This owns its data.                                                               |
 | @StateObject       | is used to store new instances of reference type data that conforms to the  ObservableObject protocol. This owns its data.                               |
 
-### Switftdon Mastodon API endpoints
+### Extensions
 
-TBC.
+## UIKit
+
+### Integrate UIKit with SwiftUI
+
+This [blog](https://sarunw.com/posts/uiview-in-swiftui/) is a good read on how to use UIViewRepresentable to utilize SwfitUI's preview functions or use a UIView inside a SwiftUI View.
