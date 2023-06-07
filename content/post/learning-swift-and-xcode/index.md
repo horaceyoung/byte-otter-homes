@@ -1,7 +1,7 @@
 ---
-title: Building an IOS Mastodon Client - Part I
+title: Building an IOS Mastodon Client - Learning Swift & Xcode
 description: 
-date: 2023-05-26 00:00:00+0000
+date: 2023-05-26
 image: swift.jpg
 tags:
     - tech

@@ -1,7 +1,7 @@
 ---
 title: 从第一份工作辞职的记录
 description: 副标题是当一个公司有一个cultist head of engineering和一个喜欢micro-manage的CEO时会碰撞出什么样的火花
-date: 2023-05-26 00:00:00+0000
+date: 2023-05-26
 image: 
 slug: why-i-quit-my-first-job
 tags:

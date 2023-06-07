@@ -1,7 +1,7 @@
 ---
 title: Blog Ideas
 description: I haven't actually started any. Why not read the about page first~
-date: 2023-05-26 00:00:00+0000
+date: 2023-05-24
 image: otters.jpg
 tags:
     - random thoughts
