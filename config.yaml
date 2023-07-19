@@ -38,12 +38,21 @@ menu:
       url: 'https://github.com/horaceyoung'
       params:
         icon: brand-github
+      weight: 2
     
-    - identifier: 'rss'
-      name: 'RSS'
+    - identifier: 'rss-en'
+      name: 'RSS-English'
       url: 'https://byte.otter.homes/index.xml'
       params:
         icon: rss
+      weight: 3
+
+    - identifier: 'rss-zh-tw'
+      name: 'RSS-Chinese'
+      url: 'https://byte.otter.homes/zh-tw/index.xml'
+      params:
+        icon: rss
+      weight: 4
 
 
         
