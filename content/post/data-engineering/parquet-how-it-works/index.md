@@ -75,3 +75,4 @@ Note that this is an oversimplified illustration.
 2. [Apache Parquet Official Documentation](https://parquet.apache.org/docs/)
 3. [Dremel made simple with Parquet](https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet)
 4. [Parquet file format – everything you need to know!](https://www.linkedin.com/pulse/parquet-file-format-everything-you-need-know-nikola-ilic)
+5. [Demystifying the Parquet File Format](https://towardsdatascience.com/demystifying-the-parquet-file-format-13adb0206705)
