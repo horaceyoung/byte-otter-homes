@@ -49,6 +49,9 @@ The structure of the file metadata is listed here:
 
 ![Footer Metadata](metadata.png)
 
+## Metadata
+TODO
+
 ## Reading a Parquet file 
 
 So with the design laid out, how does Parquet leverages it to make reading Parquet files more efficiently?
@@ -67,7 +70,8 @@ When the engine meets this parquet file, it will:
 
 Note that this is an oversimplified illustration.
 
-## Compression Techniques.
+## Compression
+TODO
 
 ## References
 
