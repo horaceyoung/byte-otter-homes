@@ -2,7 +2,7 @@
 title: Parquet - the Internals and How It Works
 description: 
 date: 2023-07-19
-image: Apache_Parquet_logo.svg
+image: apache-parquet-eyecatch.png
 toc: true
 tags:
     - tech
