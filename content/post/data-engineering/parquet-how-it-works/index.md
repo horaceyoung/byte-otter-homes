@@ -9,6 +9,8 @@ tags:
     - big data
     - parquet
     - data engineering
+categories:
+    - Data Engineering
 lang: en
 ---
 

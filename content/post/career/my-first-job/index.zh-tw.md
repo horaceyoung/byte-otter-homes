@@ -11,7 +11,7 @@ tags:
     - data engineering
     - search
 categories: 
-    - career
+    - Career
 toc: true
 lang: zh-tw
 readingTime: true

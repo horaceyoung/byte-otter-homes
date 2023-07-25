@@ -1,7 +1,7 @@
 ---
 title: Career
 description: I work in the IT industry, specifically a data engineer, for now.
-image:
+image: index.png
 readingTime: false
 # Badge style
 style:

@@ -11,6 +11,8 @@ tags:
     - xcode
     - mastodon
 lang: en
+categories:
+    - Software Engineering
 ---
 ## Intro
 
