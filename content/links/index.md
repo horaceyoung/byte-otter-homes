@@ -42,6 +42,11 @@ links:
       :D
     website: https://xnth97.github.io/
     image: img/xnth97.png
+  - title: 第三夏尔
+    description: >
+      认真生活，积极摸鱼
+    website: https://thirdshire.com
+    image: https://thirdshire.com/blackcat_avatar.jpg
 menu:
     main:
         weight: 4
