@@ -47,6 +47,10 @@ links:
       认真生活，积极摸鱼
     website: https://thirdshire.com
     image: https://thirdshire.com/blackcat_avatar.jpg
+  - title: 寒石百货 - BLUE
+    description:
+    website: https://blog.kryta.app/
+    image: https://blog.kryta.app/wp-content/uploads/2023/02/head.png
 menu:
     main:
         weight: 4

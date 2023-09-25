@@ -8,7 +8,7 @@ links:
     image: img/logo-purple.svg
   - title: Café @ Otter Homes | 獺咖
     description: >
-      cafe.otter.homes is a free, open, and multilingual instance of Misskey. Here you can communicate friendly with inhabitants of different backgrounds & hobbies of the Fediverse, without the surveillance of big tech companies or governments. 
+      cafe.otter.homes is a free, open, and multilingual instance of Misskey. Here you can communicate friendly with inhabitants of different backgrounds & hobbies of the Fediverse, without the surveillance of big tech companies or governments.
     website: https://cafe.otter.homes
     image: img/cafe-otter.png
   - title: Matrix @ Otter Homes
@@ -47,6 +47,10 @@ links:
       认真生活，积极摸鱼
     website: https://thirdshire.com
     image: https://thirdshire.com/blackcat_avatar.jpg
+  - title: 寒石百货 - BLUE
+    description:
+    website: https://blog.kryta.app/
+    image: https://blog.kryta.app/wp-content/uploads/2023/02/head.png
 menu:
     main:
         weight: 4
