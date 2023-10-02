@@ -48,7 +48,8 @@ links:
     website: https://thirdshire.com
     image: https://thirdshire.com/blackcat_avatar.jpg
   - title: 寒石百货 - BLUE
-    description:
+    description: >
+      寒石百货 - BLUE：在这短平快的年代里，总要有人产出正儿八经的内容
     website: https://blog.kryta.app/
     image: https://blog.kryta.app/wp-content/uploads/2023/02/head.png
 menu:
