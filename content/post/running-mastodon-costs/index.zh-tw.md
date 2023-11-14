@@ -84,12 +84,10 @@ VPS提供商举例: [Contabo](https://contabo.com/en/) [Hetzner](https://www.het
 | Wasabi | 1TB起，$5.99 / TB / 月，文件删除后3个月继续收取存储费用 | 免费 | 免费 | 免费 | — | https://wasabi.com/paygo-pricing-faq/ |
 | Cloudflare R2 | $0.015 / GB / 月 | 收费，分A、B类 | 免费 | 免费 | 10 GB / 月 | https://developers.cloudflare.com/r2/pricing |
 | Backblaze B2 | $0.005 / GB / 月 | 收费，分A、B、C三类，A类免费 | 免费 | $0.01/GB | 10 GB / 月 | https://www.backblaze.com/cloud-storage/pricing |
-| IDrive® e2 | 包年 $20.00 / TB / 年，
-或$0.004 / GB / 月 | 免费 | 免费 | 传出流量在3倍存储量以内免费 | 10 GB / 月 | https://www.idrive.com/object-storage-e2/pricing |
+| IDrive® e2 | 包年 $20.00 / TB / 年，或$0.004 / GB / 月 | 免费 | 免费 | 传出流量在3倍存储量以内免费 | 10 GB / 月 | https://www.idrive.com/object-storage-e2/pricing |
 | Jortage Communal Cloud | 公益项目，接受捐款 | — | — | — | — | https://jortage.com/ |
 | Contabo S3-Compatible | $2.99 / 250 GB / 月起 | 免费 | 免费 | 免费 | — | https://contabo.com/en/object-storage |
-| Scaleway S3-Compatible | 按小时计费：€0.00002/GB/hour，按月计费：~€0.0146/GB/month | 免费 | 免费 | 每月免费 75 GB
-然后 0.01 欧元/GB | 75 GB / 月 | https://www.scaleway.com/en/pricing/?tags=storage |
+| Scaleway S3-Compatible | 按小时计费：€0.00002/GB/hour，按月计费：~€0.0146/GB/month | 免费 | 免费 | 每月免费 75 GB, 然后 0.01 欧元/GB | 75 GB / 月 | https://www.scaleway.com/en/pricing/?tags=storage |
 
 ![Alt text](54ea8ec7fa3b7ada.png)
 <sup>[source](https://o3o.ca/@salt/110745017807441769) by salt@o3o.ca</sup>
