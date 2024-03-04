@@ -1,7 +1,7 @@
 ---
 title: 二月剪影 - 2024
 url: /silhouette/Feb2024.html
-description:
+description: 第一次写每月的简报，因为自己的记性不好，想有痕迹地存在蓝色的荒原。
 date: 2024-02-29
 image: IMG_5661.jpeg
 tags:
