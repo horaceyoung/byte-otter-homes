@@ -60,7 +60,7 @@ https://neodb.social/@horaceyoung@neodb.social/posts/279899443478796064/
 ![工作最大的绊脚石](IMG_5939.jpeg)
 
 ![做绝育的路上](IMG_5962.jpeg)
-！[麻醉恢复中](ae1ca7359930ee97a7d24dd3ebb0e804.jpeg)
+![麻醉恢复中](ae1ca7359930ee97a7d24dd3ebb0e804.jpeg)
 
 ![睡得安详的咪咪](<camphoto_1804928587 (1).jpeg>)
 
