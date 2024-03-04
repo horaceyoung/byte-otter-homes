@@ -41,7 +41,7 @@ https://neodb.social/@horaceyoung@neodb.social/posts/285706689512940376/
 
 ## Film
 
-![热辣滚烫](relaguntang.webp)
+![](relaguntang.webp)
 
 看过《热辣滚烫》🌕🌕🌕🌗🌑
 
