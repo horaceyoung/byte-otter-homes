@@ -194,7 +194,8 @@ https://neodb.social/@horaceyoung@neodb.social/posts/279899443478796064/
 ![In the Camps](020530d218-b93b-4161-b8d5-20a66e746633.jpg)
 - Waiting to Be Arrested at Night
 ![Waiting to Be Arrested at Night](678242f0-e4a9-4ea6-909a-5d943de1e57b.jpg)
-- ![Figure Drawing](ae23f46eb2401d6c.jpg)
+- Figure Drawing
+![Figure Drawing](ae23f46eb2401d6c.jpg)
 - ['More than “criminal”: The importance of context and detail in reporting on drugs'](https://www.wethecitizens.net/more-than-criminal-the-importance-of-context-and-detail/)
 -  滔滔生活
 ![滔滔生活](s34320436.jpg)
@@ -206,11 +207,14 @@ https://neodb.social/@horaceyoung@neodb.social/posts/279899443478796064/
 ![The Hundred Years' War on Palestine](5cbc328587abd5a8.jpg)
 - ['Ace Week'](https://alive.bar/@irisinstrangeland/109229227834632118)
 - 罔两问景：酷儿阅读攻略
+
 ![](050da33745-a241-4179-8e5c-c04fd43f8b76.jpg)
 - ['印度神话背景小说'](https://m.otter.homes/@anywaythewindblows/111919330616513195)
 - Charlotte Gainsbourg
 - ['喜剧推荐'](https://alive.bar/@zarathustra/111895039391772082)
 - The Invention of Tradition
+
 ![](275ced6e54-b3dd-4316-a537-a66ca5786133.jpg)
 - The Nurture Assumption : Why Children Turn Out the Way They Do
+
 ![](15366c35e4-ea3b-4b5a-829d-dc0f3eb38b31.jpg)
