@@ -3,7 +3,7 @@ title: 三月剪影 - 2024
 url: /silhouette/Mar2024.html
 description: 边界是具像化的种族歧视
 date: 2024-04-22
-image:
+image: IMG_6364.jpeg
 tags:
     - silhouette
     - music
@@ -21,7 +21,6 @@ categories:
 ---
 
 ## Reading
-
 
 ![](021300f601-30e2-4da3-8c55-8334b6695cab.jpg)
 
@@ -43,46 +42,99 @@ https://neodb.social/@horaceyoung@neodb.social/posts/293297207362352016/
 ## Life
 
 ### 演出
+
 ![](IMG_6636.jpeg)
 万青来新加坡演出啦，现场效果超好！
 
+![](4b6e50e7f690b77e09118c4aaffb9dd2.jpeg)
+![](IMG_6570.jpeg)
+三月八号在livehouse遇到了宝贝乐队布偶，之后可能在Spotify上循环了无数次她们的专辑，还买了实体的专辑和T-恤。好喜欢她们疯疯的风格。
+
+![](IMG_6371.jpeg)
+太白也很喜欢，四月刚好又去看了一次他们
+
+![](IMG_6516.jpeg)
+Miss.Mix 贝斯手很酷
+
+![](IMG_6787.jpeg)
+![](IMG_6797.jpeg)
+![](IMG_6798.jpeg)
+新加坡审查制度主题的戏剧，感同身受。
+
 ### 吃吃吃
 
-吃了两次四季民福，好评，出品很稳定质量也不错，除了烤鸭之外还可以推荐干炸丸子、麻婆豆腐和巧拌豆苗。
 ![](IMG_6611.jpeg)
+![](IMG_6443.jpeg)
+![](IMG_6446.jpeg)
+吃了两次四季民福，好评，出品很稳定质量也不错，除了烤鸭之外还可以推荐干炸丸子、麻婆豆腐和巧拌豆苗。贝勒烤肉看上去还不错但是是一次做很多的那种放久了很难吃。
 
+![](amphoto_1804928587 (9).jpeg)
+庆丰包子铺，巨雷无比，非常贵而且包子皮厚馅薄干巴没汁水。
+
+![](IMG_6297.jpeg)
+河沿肉饼，中规中矩的小吃店，价格还算便宜。
+
+![](IMG_6366.jpeg)
+北新桥卤煮，中规中矩，喜欢内脏的可能会打更高分数。
+
+![](IMG_6715.jpeg)
+Johor Bahru的烧烤海鲜，绝赞。
+
+![](IMG_6717.jpeg)
+新柔长堤
+
+![](/IMG_6799.jpeg)
+看起来很好吃
+
+![](/IMG_6858.jpeg)
+![](/IMG_6859.jpeg)
+Bali Fat Chow的猪排饭和海鲜炒饭
+
+### 博物馆的一些老东西
+
+![](IMG_6325.jpeg)
+![](IMG_6328.jpeg)
+![](IMG_6329.jpeg)
+![](IMG_6332.jpeg)
+![](IMG_6333.jpeg)
+![](IMG_6339.jpeg)
+![](IMG_6364.jpeg)
+这个太可爱了。。。
+![](IMG_6365.jpeg)
+
+## Life
+
+![](camphoto_1804928587 (12).jpeg)
+第一次在这种barber shop剪头发，体验就是非常快。没有剃须下次试试。
+
+![](IMG_6300.jpeg)
+![](IMG_6303.jpeg)
+![](IMG_6310.jpeg)
+![](IMG_6391.jpeg)
+![](IMG_6412.jpeg)
+![](IMG_6415.jpeg)
+![](IMG_6417.jpeg)
+![](IMG_6550.jpeg)
+![](image-1.png)
+北京给我的感觉是一个为了掩饰其荒谬而不得不用层层铁幕遮掩的笼子。
+
+![](IMG_6454.jpeg)
+![](IMG_6456.jpeg)
+什刹海
+
+![](IMG_6597.jpeg)
+一些想要被擦去的记忆，就像座位上social distancing的胶带痕迹一样难以抹去。
+
+![](IMG_6600.jpeg)
+大石兽胡同
+
+![](IMG_6887.jpeg)
+![](IMG_6912.jpeg)
+Bali Mt. Batur的风景，我们上去的时候还有火山的水蒸气。
+
+![](IMG_6955.jpeg)
+Bali的beach club。
 
 ## 剪报
 
 联邦宇宙的星尘
-
-- [战勇手书](https://www.bilibili.com/video/BV1LC411W7GX) 好像是很有意思的作品呢
-- BDSM相关: [1](https://m.cmx.im/@yukimomo/111967744203936724) [2](https://forum-lucifer.com/@Michael/111981071503921798)
-- In the Camps, 簡中譯本叫[《營中紀事》](https://chuangcn.org/books/%E8%90%A5%E4%B8%AD%E7%BA%AA%E4%BA%8B/)
-![In the Camps](020530d218-b93b-4161-b8d5-20a66e746633.jpg)
-- Waiting to Be Arrested at Night
-![Waiting to Be Arrested at Night](678242f0-e4a9-4ea6-909a-5d943de1e57b.jpg)
-- Figure Drawing
-![Figure Drawing](ae23f46eb2401d6c.jpg)
-- ['More than “criminal”: The importance of context and detail in reporting on drugs'](https://www.wethecitizens.net/more-than-criminal-the-importance-of-context-and-detail/)
--  滔滔生活
-![滔滔生活](s34320436.jpg)
-- MADK
-![MADK](thumb-1971-0_jpg.jpg)
-- Palestinian Identity
-![Palestinian Identity](b542ef87024f6a13.png)
-- The Hundred Years' War on Palestine
-![The Hundred Years' War on Palestine](5cbc328587abd5a8.jpg)
-- ['Ace Week'](https://alive.bar/@irisinstrangeland/109229227834632118)
-- 罔两问景：酷儿阅读攻略
-
-![](050da33745-a241-4179-8e5c-c04fd43f8b76.jpg)
-- ['印度神话背景小说'](https://m.otter.homes/@anywaythewindblows/111919330616513195)
-- Charlotte Gainsbourg
-- ['喜剧推荐'](https://alive.bar/@zarathustra/111895039391772082)
-- The Invention of Tradition
-
-![](275ced6e54-b3dd-4316-a537-a66ca5786133.jpg)
-- The Nurture Assumption : Why Children Turn Out the Way They Do
-
-![](15366c35e4-ea3b-4b5a-829d-dc0f3eb38b31.jpg)
