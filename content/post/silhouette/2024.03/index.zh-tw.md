@@ -1,5 +1,6 @@
 ---
 title: 三月剪影 - 2024
+url: /silhouette/Mar2024.html
 description: 边界是具像化的种族歧视
 date: 2024-04-22
 image:
