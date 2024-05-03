@@ -16,7 +16,7 @@ categories:
 ---
 
 《相信》 - 布偶乐队
-{{< video src="/resources/silhouette/2024.03/相信 - 布偶樂隊.mp3" autoplay="true" poster="/resources/silhouette/2024.03/相信 - 布偶樂隊.jpg" >}}
+{{< video src="/resources/silhouette/2024.03/相信 - 布偶樂隊.mp3" autoplay="false" poster="/resources/silhouette/2024.03/相信 - 布偶樂隊.jpg" >}}
 
 ---
 
@@ -83,11 +83,11 @@ Johor Bahru的烧烤海鲜，绝赞。
 ![](IMG_6717.jpeg)
 新柔长堤
 
-![](/IMG_6799.jpeg)
+![](IMG_6799.jpeg)
 看起来很好吃
 
-![](/IMG_6858.jpeg)
-![](/IMG_6859.jpeg)
+![](IMG_6858.jpeg)
+![](IMG_6859.jpeg)
 Bali Fat Chow的猪排饭和海鲜炒饭
 
 ### 博物馆的一些老东西
@@ -104,7 +104,7 @@ Bali Fat Chow的猪排饭和海鲜炒饭
 
 ## Life
 
-![](camphoto_1804928587 (12).jpeg)
+![](iamge-2.jpeg)
 第一次在这种barber shop剪头发，体验就是非常快。没有剃须下次试试。
 
 ![](IMG_6300.jpeg)
